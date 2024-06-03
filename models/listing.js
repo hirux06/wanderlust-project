@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
-const Review = require("C:/Users/saran/OneDrive/Desktop/AC/PROJECT/MAJOR PROJECT/models/review.js");
+const Review = require("../models/review");
 
 const listingSchema = new Schema({
   title: {
