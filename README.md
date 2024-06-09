@@ -32,6 +32,6 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 ## Links
 - GitHub Repository: https://github.com/hirux06/wanderlust-project
-- Hosted Application: https://wanderlust-project-2tbs.onrender.com/
+- Hosted Application: https://wanderlust-project-2tbs.onrender.com/listings
 ##
 Thank you for visiting Wanderlust! Enjoy exploring the world with us. 🌍✈️
